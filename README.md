@@ -5,5 +5,6 @@
 ## 2. UI 기능 및 화면 설계
 ### 2.1 기능 요구사항 정의
 ### 2.2 UserFlow
-<img width="2816" height="1536" alt="UserFlow_Gemini" src="https://github.com/user-attachments/assets/b900472a-9a87-4df4-a725-8da43bf26ee7" />
+<img width="885" height="182" alt="image" src="https://github.com/user-attachments/assets/afacfec7-3527-4f5d-ada4-d1bed8daa17e" />
+
 ### 2.3 사이트맵 작성
